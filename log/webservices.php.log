@@ -1,0 +1,438 @@
+Matrícula: 210001087384 | Resposta do WS: 
+rollBack OK -----     Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '51072075' for key 'PRIMARY' chave primaria &lt;br&gt;Array
+(
+    [id_protocolo] =&gt; 51072075
+    [id_atividade] =&gt; 51678715
+    [id_atributo_andamento] =&gt; 54990873
+    [id_acesso] =&gt; 50734770
+    [id_contato] =&gt; 149987153
+    [id_participante] =&gt; 50857620
+)
+ id sequenciaArray
+(
+    [seq_protocolo] =&gt; 51072075
+    [seq_atividade] =&gt; 51678715
+    [seq_atributo_andamento] =&gt; 54990873
+    [seq_acesso] =&gt; 50734770
+    [seq_contato] =&gt; 149987153
+    [seq_participante] =&gt; 50857620
+)
+
+
+Matrícula: 150001556173 | Resposta do WS: 
+rollBack OK -----     Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '150001556173' for key 'ak3_protocolo' chave primaria &lt;br&gt;Array
+(
+    [id_protocolo] =&gt; 51072079
+    [id_atividade] =&gt; 51678723
+    [id_atributo_andamento] =&gt; 54990896
+    [id_acesso] =&gt; 50734774
+    [id_contato] =&gt; 149987153
+    [id_participante] =&gt; 50857624
+)
+ id sequenciaArray
+(
+    [seq_protocolo] =&gt; 51072079
+    [seq_atividade] =&gt; 51678723
+    [seq_atributo_andamento] =&gt; 54990896
+    [seq_acesso] =&gt; 50734774
+    [seq_contato] =&gt; 149987153
+    [seq_participante] =&gt; 50857624
+)
+
+
+Matrícula: 210001087384 | Resposta do WS: 
+rollBack OK -----     Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '210001087384' for key 'ak3_protocolo' chave primaria &lt;br&gt;Array
+(
+    [id_protocolo] =&gt; 51072106
+    [id_atividade] =&gt; 51678776
+    [id_atributo_andamento] =&gt; 54991038
+    [id_acesso] =&gt; 50734805
+    [id_contato] =&gt; 149987154
+    [id_participante] =&gt; 50857649
+)
+ id sequenciaArray
+(
+    [seq_protocolo] =&gt; 51072106
+    [seq_atividade] =&gt; 51678776
+    [seq_atributo_andamento] =&gt; 54991038
+    [seq_acesso] =&gt; 50734805
+    [seq_contato] =&gt; 149987154
+    [seq_participante] =&gt; 50857649
+)
+
+
+Matrícula: 262663051970 | Resposta do WS: 
+Procedimento 262663051970 inserido com sucesso!
+
+Matrícula: 572020927503 | Resposta do WS: 
+Procedimento 572020927503 inserido com sucesso!
+
+Matrícula: 264403051855 | Resposta do WS: 
+Procedimento 264403051855 inserido com sucesso!
+
+Matrícula: 262392993576 | Resposta do WS: 
+Procedimento 262392993576 inserido com sucesso!
+
+Matrícula: 262392996947 | Resposta do WS: 
+Procedimento 262392996947 inserido com sucesso!
+
+Matrícula: 262396327196 | Resposta do WS: 
+Procedimento 262396327196 inserido com sucesso!
+
+Matrícula: 264061674904 | Resposta do WS: 
+Procedimento 264061674904 inserido com sucesso!
+
+Matrícula: 264061674904 | Resposta do WS: 
+Procedimento 264061674904 inserido com sucesso!
+
+Matrícula: 264061405125 | Resposta do WS: 
+Procedimento 264061405125 inserido com sucesso!
+
+Matrícula: 262331051107 | Resposta do WS: 
+Procedimento 262331051107 inserido com sucesso!
+
+Matrícula: 262333050693 | Resposta do WS: 
+Procedimento 262333050693 inserido com sucesso!
+
+Matrícula: 408040713177 | Resposta do WS: 
+Procedimento 408040713177 inserido com sucesso!
+
+Matrícula: 264120049593 | Resposta do WS: 
+Procedimento 264120049593 inserido com sucesso!
+
+Matrícula: 264182192452 | Resposta do WS: 
+Procedimento 264182192452 inserido com sucesso!
+
+Matrícula: 572021583516 | Resposta do WS: 
+rollBack OK -----     Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '51085166' for key 'PRIMARY' chave primaria &lt;br&gt;Array
+(
+    [id_protocolo] =&gt; 51085166
+    [id_atividade] =&gt; 51703391
+    [id_atributo_andamento] =&gt; 55055500
+    [id_acesso] =&gt; 50748276
+    [id_contato] =&gt; 149989344
+    [id_participante] =&gt; 50870536
+)
+ id sequenciaArray
+(
+    [seq_protocolo] =&gt; 51085166
+    [seq_atividade] =&gt; 51703391
+    [seq_atributo_andamento] =&gt; 55055500
+    [seq_acesso] =&gt; 50748276
+    [seq_contato] =&gt; 149989344
+    [seq_participante] =&gt; 50870536
+)
+
+
+Matrícula: 572021583516 | Resposta do WS: 
+Procedimento 572021583516 inserido com sucesso!
+
+Matrícula: 264031093003 | Resposta do WS: 
+Procedimento 264031093003 inserido com sucesso!
+
+Matrícula: 403010669461 | Resposta do WS: 
+rollBack OK -----     Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '51086081' for key 'PRIMARY' chave primaria &lt;br&gt;Array
+(
+    [id_protocolo] =&gt; 51086081
+    [id_atividade] =&gt; 51705237
+    [id_atributo_andamento] =&gt; 55060672
+    [id_acesso] =&gt; 50749201
+    [id_contato] =&gt; 149989359
+    [id_participante] =&gt; 50871434
+)
+ id sequenciaArray
+(
+    [seq_protocolo] =&gt; 51086081
+    [seq_atividade] =&gt; 51705237
+    [seq_atributo_andamento] =&gt; 55060672
+    [seq_acesso] =&gt; 50749201
+    [seq_contato] =&gt; 149989359
+    [seq_participante] =&gt; 50871434
+)
+
+
+Matrícula: 403010669461 | Resposta do WS: 
+Procedimento 403010669461 inserido com sucesso!
+
+Matrícula: 264121269540 | Resposta do WS: 
+Procedimento 264121269540 inserido com sucesso!
+
+Matrícula: 401081997053 | Resposta do WS: 
+Procedimento 401081997053 inserido com sucesso!
+
+Matrícula: 264212312480 | Resposta do WS: 
+rollBack OK -----     Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '50878155' for key 'PRIMARY' chave primaria &lt;br&gt;Array
+(
+    [id_protocolo] =&gt; 51092829
+    [id_atividade] =&gt; 51715427
+    [id_atributo_andamento] =&gt; 55082725
+    [id_acesso] =&gt; 50756175
+    [id_contato] =&gt; 149992916
+    [id_participante] =&gt; 50878155
+)
+ id sequenciaArray
+(
+    [seq_protocolo] =&gt; 51092829
+    [seq_atividade] =&gt; 51715427
+    [seq_atributo_andamento] =&gt; 55082725
+    [seq_acesso] =&gt; 50756175
+    [seq_contato] =&gt; 149992916
+    [seq_participante] =&gt; 50878155
+)
+
+
+Matrícula: 264212312480 | Resposta do WS: 
+Procedimento 264212312480 inserido com sucesso!
+
+Matrícula: 572020948618 | Resposta do WS: 
+Procedimento 572020948618 inserido com sucesso!
+
+Matrícula: 262511007938 | Resposta do WS: 
+rollBack OK -----     Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '51094367' for key 'PRIMARY' chave primaria &lt;br&gt;Array
+(
+    [id_protocolo] =&gt; 51094367
+    [id_atividade] =&gt; 51718558
+    [id_atributo_andamento] =&gt; 55091317
+    [id_acesso] =&gt; 50757759
+    [id_contato] =&gt; 149992995
+    [id_participante] =&gt; 50879680
+)
+ id sequenciaArray
+(
+    [seq_protocolo] =&gt; 51094367
+    [seq_atividade] =&gt; 51718558
+    [seq_atributo_andamento] =&gt; 55091317
+    [seq_acesso] =&gt; 50757759
+    [seq_contato] =&gt; 149992995
+    [seq_participante] =&gt; 50879680
+)
+
+
+Matrícula: 262511007938 | Resposta do WS: 
+Procedimento 262511007938 inserido com sucesso!
+
+Matrícula: 262551188991 | Resposta do WS: 
+Procedimento 262551188991 inserido com sucesso!
+
+Matrícula: 264101566703 | Resposta do WS: 
+Procedimento 264101566703 inserido com sucesso!
+
+Matrícula: 262823053418 | Resposta do WS: 
+Procedimento 262823053418 inserido com sucesso!
+
+Matrícula: 572022998207 | Resposta do WS: 
+Procedimento 572022998207 inserido com sucesso!
+
+Matrícula: 572022997219 | Resposta do WS: 
+Procedimento 572022997219 inserido com sucesso!
+
+Matrícula: 572020939221 | Resposta do WS: 
+Procedimento 572020939221 inserido com sucesso!
+
+Matrícula: 262383059464 | Resposta do WS: 
+Procedimento 262383059464 inserido com sucesso!
+
+Matrícula: 262571998107 | Resposta do WS: 
+Procedimento 262571998107 inserido com sucesso!
+
+Matrícula: 264092402877 | Resposta do WS: 
+Procedimento 264092402877 inserido com sucesso!
+
+Matrícula: 264092403251 | Resposta do WS: 
+Procedimento 264092403251 inserido com sucesso!
+
+Matrícula: 264091377781 | Resposta do WS: 
+Procedimento 264091377781 inserido com sucesso!
+
+Matrícula: 264091884027 | Resposta do WS: 
+Procedimento 264091884027 inserido com sucesso!
+
+Matrícula: 264091918780 | Resposta do WS: 
+Procedimento 264091918780 inserido com sucesso!
+
+Matrícula: 250001945184 | Resposta do WS: 
+Procedimento 250001945184 inserido com sucesso!
+
+Matrícula: 262763054633 | Resposta do WS: 
+Procedimento 262763054633 inserido com sucesso!
+
+Matrícula: 262762770918 | Resposta do WS: 
+Procedimento 262762770918 inserido com sucesso!
+
+Matrícula: 262763054893 | Resposta do WS: 
+Procedimento 262763054893 inserido com sucesso!
+
+Matrícula: 262763054877 | Resposta do WS: 
+Procedimento 262763054877 inserido com sucesso!
+
+Matrícula: 262763054640 | Resposta do WS: 
+Procedimento 262763054640 inserido com sucesso!
+
+Matrícula: 262762921085 | Resposta do WS: 
+Procedimento 262762921085 inserido com sucesso!
+
+Matrícula: 262763054678 | Resposta do WS: 
+Procedimento 262763054678 inserido com sucesso!
+
+Matrícula: 262763054864 | Resposta do WS: 
+Procedimento 262763054864 inserido com sucesso!
+
+Matrícula: 262763054477 | Resposta do WS: 
+Procedimento 262763054477 inserido com sucesso!
+
+Matrícula: 262763055549 | Resposta do WS: 
+Procedimento 262763055549 inserido com sucesso!
+
+Matrícula: 262763054680 | Resposta do WS: 
+Procedimento 262763054680 inserido com sucesso!
+
+Matrícula: 262763054515 | Resposta do WS: 
+Procedimento 262763054515 inserido com sucesso!
+
+Matrícula: 262762665101 | Resposta do WS: 
+Procedimento 262762665101 inserido com sucesso!
+
+Matrícula: 262763054452 | Resposta do WS: 
+Procedimento 262763054452 inserido com sucesso!
+
+Matrícula: 262761028117 | Resposta do WS: 
+Procedimento 262761028117 inserido com sucesso!
+
+Matrícula: 262763054883 | Resposta do WS: 
+Procedimento 262763054883 inserido com sucesso!
+
+Matrícula: 401082390778 | Resposta do WS: 
+Procedimento 401082390778 inserido com sucesso!
+
+Matrícula: 401082996364 | Resposta do WS: 
+Procedimento 401082996364 inserido com sucesso!
+
+Matrícula: 401082993869 | Resposta do WS: 
+Procedimento 401082993869 inserido com sucesso!
+
+Matrícula: 401082997241 | Resposta do WS: 
+Procedimento 401082997241 inserido com sucesso!
+
+Matrícula: 401083006290 | Resposta do WS: 
+rollBack OK -----     Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '51100296' for key 'PRIMARY' chave primaria &lt;br&gt;Array
+(
+    [id_protocolo] =&gt; 51100296
+    [id_atividade] =&gt; 51731118
+    [id_atributo_andamento] =&gt; 55125713
+    [id_acesso] =&gt; 50764036
+    [id_contato] =&gt; 149993104
+    [id_participante] =&gt; 50885636
+)
+ id sequenciaArray
+(
+    [seq_protocolo] =&gt; 51100296
+    [seq_atividade] =&gt; 51731118
+    [seq_atributo_andamento] =&gt; 55125713
+    [seq_acesso] =&gt; 50764036
+    [seq_contato] =&gt; 149993104
+    [seq_participante] =&gt; 50885636
+)
+
+
+Matrícula: 401083006290 | Resposta do WS: 
+Procedimento 401083006290 inserido com sucesso!
+
+Matrícula: 401082998051 | Resposta do WS: 
+Procedimento 401082998051 inserido com sucesso!
+
+Matrícula: 401082238621 | Resposta do WS: 
+Procedimento 401082238621 inserido com sucesso!
+
+Matrícula: 308021503848 | Resposta do WS: 
+Procedimento 308021503848 inserido com sucesso!
+
+Matrícula: 572020756656 | Resposta do WS: 
+Procedimento 572020756656 inserido com sucesso!
+
+Matrícula: 572020920763 | Resposta do WS: 
+Procedimento 572020920763 inserido com sucesso!
+
+Matrícula: 572020922059 | Resposta do WS: 
+Procedimento 572020922059 inserido com sucesso!
+
+Matrícula: 572021708750 | Resposta do WS: 
+rollBack OK -----     Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '572021708750' for key 'ak3_protocolo' chave primaria &lt;br&gt;Array
+(
+    [id_protocolo] =&gt; 51100581
+    [id_atividade] =&gt; 51731693
+    [id_atributo_andamento] =&gt; 55127326
+    [id_acesso] =&gt; 50764337
+    [id_contato] =&gt; 149993112
+    [id_participante] =&gt; 50885920
+)
+ id sequenciaArray
+(
+    [seq_protocolo] =&gt; 51100581
+    [seq_atividade] =&gt; 51731693
+    [seq_atributo_andamento] =&gt; 55127326
+    [seq_acesso] =&gt; 50764337
+    [seq_contato] =&gt; 149993112
+    [seq_participante] =&gt; 50885920
+)
+
+
+Matrícula: 572021708750 | Resposta do WS: 
+rollBack OK -----     Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '572021708750' for key 'ak3_protocolo' chave primaria &lt;br&gt;Array
+(
+    [id_protocolo] =&gt; 51100586
+    [id_atividade] =&gt; 51731701
+    [id_atributo_andamento] =&gt; 55127349
+    [id_acesso] =&gt; 50764341
+    [id_contato] =&gt; 149993112
+    [id_participante] =&gt; 50885924
+)
+ id sequenciaArray
+(
+    [seq_protocolo] =&gt; 51100586
+    [seq_atividade] =&gt; 51731701
+    [seq_atributo_andamento] =&gt; 55127349
+    [seq_acesso] =&gt; 50764341
+    [seq_contato] =&gt; 149993112
+    [seq_participante] =&gt; 50885924
+)
+
+
+Matrícula: 572021708750 | Resposta do WS: 
+rollBack OK -----     Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '572021708750' for key 'ak3_protocolo' chave primaria &lt;br&gt;Array
+(
+    [id_protocolo] =&gt; 51100602
+    [id_atividade] =&gt; 51731732
+    [id_atributo_andamento] =&gt; 55127434
+    [id_acesso] =&gt; 50764356
+    [id_contato] =&gt; 149993112
+    [id_participante] =&gt; 50885939
+)
+ id sequenciaArray
+(
+    [seq_protocolo] =&gt; 51100602
+    [seq_atividade] =&gt; 51731732
+    [seq_atributo_andamento] =&gt; 55127434
+    [seq_acesso] =&gt; 50764356
+    [seq_contato] =&gt; 149993112
+    [seq_participante] =&gt; 50885939
+)
+
+
+Matrícula: 572020931911 | Resposta do WS: 
+Procedimento 572020931911 inserido com sucesso!
+
+Matrícula: 572020931865 | Resposta do WS: 
+Procedimento 572020931865 inserido com sucesso!
+
+Matrícula: 572020941786 | Resposta do WS: 
+Procedimento 572020941786 inserido com sucesso!
+
+Matrícula: 264060047450 | Resposta do WS: 
+Procedimento 264060047450 inserido com sucesso!
+
+Matrícula: 572020933913 | Resposta do WS: 
+Procedimento 572020933913 inserido com sucesso!
+
+Matrícula: 262511513607 | Resposta do WS: 
+Procedimento 262511513607 inserido com sucesso!
+
